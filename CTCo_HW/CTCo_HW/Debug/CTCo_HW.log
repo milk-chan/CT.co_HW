@@ -1,0 +1,4 @@
+﻿  CTCo_HW.cpp
+c:\users\golub\source\repos\ct.co_hw\ctco_hw\ctco_hw\ctco_hw.cpp(224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\golub\source\repos\ct.co_hw\ctco_hw\ctco_hw\ctco_hw.cpp(240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CTCo_HW.vcxproj -> C:\Users\golub\Source\Repos\CT.co_HW\CTCo_HW\Debug\CTCo_HW.exe
